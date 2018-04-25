@@ -1,0 +1,15 @@
+{
+	"compilerOptions": {
+		"module": "commonjs",
+		"target": "es6",
+		"moduleResolution": "node",
+		"sourceMap": true,
+		"watch": true,
+		"typeRoots": ["node_modules/@types"],
+		"outDir": "js/src/",
+        "mapRoot": "js/src/"
+	},
+	"exclude": [
+		"node_modules"
+	]
+}
